@@ -1,0 +1,23 @@
+{
+  "rows_after_cleaning": 5171,
+  "label_counts": {
+    "ham": 4518,
+    "spam": 653
+  },
+  "missing_values_after_cleaning": {
+    "label": 0,
+    "text": 0,
+    "char_count": 0,
+    "word_count": 0,
+    "clean_text": 0,
+    "tokens": 0,
+    "processed_text": 0,
+    "sentiment_compound": 0,
+    "sentiment_group": 0
+  },
+  "duplicate_label_text_pairs_after_cleaning": 0,
+  "mean_character_count": 79.33243086443628,
+  "median_character_count": 61.0,
+  "mean_word_count": 19.276348868690775,
+  "median_word_count": 15.0
+}
